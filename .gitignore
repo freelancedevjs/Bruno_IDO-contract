@@ -1,0 +1,25 @@
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+
+#Hardhat files
+cache
+artifacts
+
+abis
+backups
+
+.idea
+
+deployments/hardhat
+deployments/localhost
+coverage*
